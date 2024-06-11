@@ -13,3 +13,6 @@ git restore comando
 
 
 comando git push
+
+
+comando git PULL
