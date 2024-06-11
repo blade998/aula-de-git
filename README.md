@@ -7,3 +7,6 @@ atualizei de novo o texto
 
 
 atualizei mais uma vez
+
+
+git restore comando
