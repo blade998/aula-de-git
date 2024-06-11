@@ -10,3 +10,6 @@ atualizei mais uma vez
 
 
 git restore comando
+
+
+comando git push
