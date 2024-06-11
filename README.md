@@ -16,3 +16,5 @@ comando git push
 
 
 comando git PULL
+
+comando git fetch
